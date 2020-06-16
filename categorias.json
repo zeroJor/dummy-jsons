@@ -1,0 +1,18 @@
+[
+    {
+        "categoriaId": "CAT1",
+        "nombre": "Industria"
+    }, {
+        "categoriaId": "CAT2",
+        "nombre": "Transporte"
+    }, {
+        "categoriaId": "CAT3",
+        "nombre": "Empresa"
+    }, {
+        "categoriaId": "CAT4",
+        "nombre": "Personales"
+    }, {
+        "categoriaId": "CAT5",
+        "nombre": "Covid-19"
+    }
+]
