@@ -1,0 +1,30 @@
+[
+    {
+        "plantillaId": "P1",
+        "categoriaId": "CAT1",
+        "previewImgUrl": "https://picsum.photos/200/300",
+        "previewImgThumbUrl": "https://picsum.photos/800/1200",
+        "previewPdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    },
+    {
+        "plantillaId": "P2",
+        "categoriaId": "CAT1",
+        "previewImgUrl": "https://picsum.photos/200/300",
+        "previewImgThumbUrl": "https://picsum.photos/800/1200",
+        "previewPdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    },
+    {
+        "plantillaId": "P3",
+        "categoriaId": "CAT1",
+        "previewImgUrl": "https://picsum.photos/200/300",
+        "previewImgThumbUrl": "https://picsum.photos/800/1200",
+        "previewPdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    },
+    {
+        "plantillaId": "P3",
+        "categoriaId": "CAT1",
+        "previewImgUrl": "https://picsum.photos/200/300",
+        "previewImgThumbUrl": "https://picsum.photos/800/1200",
+        "previewPdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    }
+]
